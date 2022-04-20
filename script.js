@@ -19,8 +19,8 @@
        }  else {
 
         
-        alert("Dados informados: possuem letras maisculas , caracteres especiais ou numeros não aceitos neste program informe somente letras minusculas");
-        alter("O programa esta sendo encerrado, execute novamente");
+        alert("Dados informados: possuem letras maisculas , caracteres especiais ou numeros não aceitos neste programa informe somente letras minusculas");
+        alert("O programa esta sendo encerrado, execute novamente");
 
         document.location.reload(true);
     
